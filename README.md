@@ -7,4 +7,4 @@ Integrantes:
 Para executar os programas desenvolvidos, basta compilar os arquivos .c e executar os arquivos .exe gerados da compilação.
 
 Releases entregues:
-Entrega #1 - Matrizes e Funções
+Entrega #1 - Matrizes e Funções (03/11)
