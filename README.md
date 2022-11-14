@@ -4,6 +4,9 @@ Integrantes:
 - Gabriel Santana Macedo. Email: b.gabrielsm@gmail.com
 - Gustavo Gonçalves Queiroz. Email: gusgonque@gmail.com
 
+Todos os exercícios foram revisados e enviados pela IDE CLion 2022.2.4
+O compilador utilizado é o gcc (MinGW.org GCC-6.3.0-1) 6.3.0
+
 Para executar os programas desenvolvidos, basta compilar os arquivos .c e executar os arquivos .exe gerados da compilação.
 
 Releases entregues:
