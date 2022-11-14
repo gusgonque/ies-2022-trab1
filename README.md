@@ -8,3 +8,4 @@ Para executar os programas desenvolvidos, basta compilar os arquivos .c e execut
 
 Releases entregues:
 Entrega #1 - Matrizes e Funções (03/11)
+Entrega #2 - Strings e Parâmetros (10/11)
